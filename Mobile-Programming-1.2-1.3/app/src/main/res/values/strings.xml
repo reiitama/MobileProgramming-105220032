@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">kodingppb</string>
+    <string name="article_title">Article</string>
+    <string name="article_subtitle">Meski Tanpa Pengalaman, Kamu Bisa Jadi Mobile Developer dengan Tips Ini</string>
+    <string name="article_text">
+        <b>Jakarta, 09 Des 2021</b> - Bekerja sebagai developer memang membutuhkan pengalaman kerja. Namun, sebenarnya ada cara dan trik lain untuk menjadi mobile developer meski belum punya pengalaman kerja, lho.
+        \n      Lantas, apa saja yang dibutuhkan untuk berkarier sebagai mobile developer tanpa pengalaman? Jika kamu penasaran, sebaiknya simak terus tips dan cara menjadi mobile developer yang sudah saya persiapkan di bawah ini.
+        \n
+        1. Mulai belajar coding
+        \n  Berkembangnya teknologi membuat profesi sebagai mobile developer semakin dibutuhkan. Itulah mengapa banyak orang yang penasaran dan mencari tahu cara menjadi mobile developer.
+        \n Nah, jika kamu serius berkarier di bidang ini, maka hal pertama yang harus dilakukan adalah belajar coding.
+        \n Buildfire menjelaskan bahwa belajar coding bisa dilakukan secara autodidak dengan memanfaatkan platform belajar coding yang banyak tersedia di internet.
+        \n Misalnya, Treehouse atau Code Academy. Kamu bisa mulai mempelajari bahasa pemrograman yang diperlukan untuk membuat sebuah aplikasi Android atau iOS di sana.
+        \n
+        2. Ikut bootcamp
+        \n  Setelah memiliki pengetahuan dasar mengenai coding, kamu bisa mulai mencoba fokus untuk mulai belajar proses pengembangan aplikasi mobile.
+        \n Hal yang satu ini memang tidak mudah jika dipelajari sendiri. Karena itu, kamu bisa memanfaatkan bootcamp untuk mempelajarinya.
+        \n Dengan mengikuti bootcamp kamu akan mendapatkan pengalaman belajar yang lebih mendalam dan insentif dari para mentor yang sudah berpengalaman.
+        \n Kamu juga akan diberikan praktik dalam hal yang berkaitan dengan mobile developer, agar dapat membangun portofolio terbaik. Cukup menarik bukan?
+    </string>
+</resources>
